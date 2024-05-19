@@ -1,4 +1,4 @@
-# nchc-hpc_qc-bechmark
+# VQC-benchmark-HPC (NCHC)
 ## Hardware
 ![alt text](fig.png)
 ```
