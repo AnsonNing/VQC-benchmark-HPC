@@ -15,8 +15,8 @@ srun lsblk
 
 ## Quantum Computing Tools
 1. **qiskit**
-2. Intel-QS
-3. XACC
+2. pennylane
+3. Intel-QS
 
 ## Buildup Qiskit Env
 - install miniconda and create env for qiskit
