@@ -1,6 +1,6 @@
 # nchc-hpc_qc-bechmark
 ## Hardware
-![alt text](figure/orm67ua2.png)
+![alt text](fig.png)
 ```
 cat /proc/cpuinfo
 srun lsblk
